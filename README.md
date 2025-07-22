@@ -1,6 +1,3 @@
-Thanks for sharing your complete code! Here's a clean, **GitHub README.md** file for your **WhatsApp Chat Analyzer** project. You can copy this directly into your `README.md` on GitHub:
-
----
 
 ## 📊 WhatsApp Chat Analyzer
 
