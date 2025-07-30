@@ -10,15 +10,15 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
 
 ## 📌 Features
 
-✅ Upload and parse WhatsApp `.txt` chat files
-✅ View top-level statistics (messages, words, media, links)
-✅ Monthly and daily timeline analysis
-✅ Day-wise and month-wise activity map
-✅ Weekly heatmap of chat activity (Hour vs Day)
-✅ Identify most active users (if analyzing group chats)
-✅ Generate a word cloud of most used words
-✅ Visualize top 20 most common words
-✅ Emoji usage breakdown with pie chart and rankings
+ Upload and parse WhatsApp `.txt` chat files
+ View top-level statistics (messages, words, media, links)
+ Monthly and daily timeline analysis
+ Day-wise and month-wise activity map
+ Weekly heatmap of chat activity (Hour vs Day)
+ Identify most active users (if analyzing group chats)
+ Generate a word cloud of most used words
+ Visualize top 20 most common words
+ Emoji usage breakdown with pie chart and rankings
 
 ---
 
