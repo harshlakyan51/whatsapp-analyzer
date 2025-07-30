@@ -55,6 +55,9 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
   
   <img width="970" height="756" alt="image" src="https://github.com/user-attachments/assets/9658ff78-077a-4889-abb2-a499137ee402" />
 
+  <img width="948" height="680" alt="image" src="https://github.com/user-attachments/assets/8d1cb2d3-8739-4323-a9dd-68242e944290" />
+
+
 
 ---
 
