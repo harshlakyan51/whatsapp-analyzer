@@ -30,19 +30,20 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
 
 * 📈 Monthly / Daily Activity Graphs
 
+  <img width="997" height="873" alt="Screenshot 2025-07-30 100143" src="https://github.com/user-attachments/assets/ef73036b-b0e5-48e8-bb77-a025a92042ae" />
+
   
   <img width="990" height="858" alt="image" src="https://github.com/user-attachments/assets/46aabb58-f66a-47aa-9f4e-fc980f61e078" />
-  <img width="993" height="661" alt="image" src="https://github.com/user-attachments/assets/b45b7733-9507-4473-b4d0-1f89acfe8a1b" />
-
+  
 * 📅 Activity Heatmap (Day vs Hour)
 
   
-  <img width="936" height="818" alt="image" src="https://github.com/user-attachments/assets/ff6db7b4-f5bf-4678-86ac-1b59f1ab1901" />
+  <img width="993" height="661" alt="Screenshot 2025-07-30 100235" src="https://github.com/user-attachments/assets/1b739618-6179-4759-8040-a8f9499df50d" />
 
 * ☁️ WordCloud
 
   
-  <img width="911" height="760" alt="image" src="https://github.com/user-attachments/assets/45c718e3-cb85-49a7-a639-4b485f0a071d" />
+  <img width="936" height="818" alt="Screenshot 2025-07-30 100307" src="https://github.com/user-attachments/assets/4d6f54a8-ce49-4a2c-9a28-8db30a5059e2" />
 
 * 😀 Emoji Pie Chart
 
