@@ -146,13 +146,3 @@ whatsapp-chat-analyzer/
 This project is licensed under the **MIT License**. Feel free to use and modify it.
 
 ---
-
-## 🔗 Acknowledgments
-
-* Streamlit team for an amazing web framework
-* Python open-source community
-* GitHub Copilot, Stack Overflow & my own curiosity 😄
-
----
-
-Let me know if you’d like me to add a `requirements.txt` or deploy this to **Streamlit Cloud** with a public URL.
