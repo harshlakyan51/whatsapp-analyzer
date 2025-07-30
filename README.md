@@ -59,30 +59,6 @@ whatsapp-chat-analyzer/
 ├── requirements.txt      # List of required Python packages
 └── README.md             # Project documentation
 ```
-
----
-
-## ⚙️ How to Run Locally
-
-### 🔁 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
-cd whatsapp-chat-analyzer
-```
-
-### 🛠 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 🚀 3. Run the App
-
-```bash
-streamlit run main.py
-```
-
 ---
 
 ## 📁 How to Export WhatsApp Chat
