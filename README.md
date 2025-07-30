@@ -40,7 +40,8 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
   <img width="951" height="698" alt="image" src="https://github.com/user-attachments/assets/d7f9cb8a-1ba0-4228-887c-c6be427b394c" />
 
 * 📊 Bar Charts for most common words and active days
-  ![Uploading image.png…]()
+  <img width="951" height="698" alt="image" src="https://github.com/user-attachments/assets/9d823adc-d9a2-42f7-b128-881a229259df" />
+
 
 ---
 
