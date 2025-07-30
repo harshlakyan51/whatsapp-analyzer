@@ -8,7 +8,7 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
 
 ---
 
-## 📌 Features
+### 📌 Features
 
  Upload and parse WhatsApp `.txt` chat files
  View top-level statistics (messages, words, media, links)
