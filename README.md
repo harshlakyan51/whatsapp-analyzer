@@ -20,6 +20,10 @@ An interactive web app built using **Streamlit** that analyzes WhatsApp group or
 - ✅ Visualize top 20 most common words  
 - ✅ Emoji usage breakdown with pie chart and rankings
 
+---
+## Live Demo
+https://whatsapp-analyzer-7hfm.onrender.com/
+---
 
 ---
 
