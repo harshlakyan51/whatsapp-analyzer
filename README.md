@@ -72,6 +72,22 @@ whatsapp-chat-analyzer/
 6. Upload it into the app via the **sidebar**.
 
 ---
+### 🧩 Detailed Functionality
+
+| Section | Description |
+|---------|-------------|
+| **📁 File Upload** | Upload a WhatsApp chat `.txt` file (exported from WhatsApp) using the sidebar. The file is parsed and cleaned for further analysis. |
+| **👤 User Selection** | Choose either a specific user from the chat or analyze the chat as a whole (`Overall`). |
+| **📊 Top Statistics** | Displays total messages, word count, number of media files, and links shared by the selected user or group. |
+| **📈 Monthly Timeline** | A line graph showing the number of messages sent per month over time to visualize chat consistency or activity spikes. |
+| **📅 Daily Timeline** | Shows daily message count to detect high-activity days. Useful for identifying dates with key conversations. |
+| **📆 Activity Map** | Two bar charts:<br>• **Busy Days**: Messages sent per day of the week (e.g., Monday, Tuesday).<br>• **Busy Months**: Total messages sent per month. Helps detect peak chat periods. |
+| **🧭 Weekly Activity Heatmap** | Heatmap showing the distribution of messages by weekday and hourly time slots, helping to understand chat behavior (e.g., active late at night on weekends). |
+| **🙋 Most Active Users** *(Only in Overall mode)* | Displays top contributors in a group chat using a bar chart and a table with percentage share and message count. |
+| **☁️ Word Cloud** | A visual representation of the most frequently used words, ignoring common Hinglish stopwords. |
+| **🔤 Most Common Words** | A horizontal bar chart listing the top 20 words used, excluding stopwords. |
+| **😀 Emoji Analysis** | Table and pie chart showing the most frequently used emojis and their percentage distribution. |
+
 
 ## 📌 Example Stats You’ll Get
 
